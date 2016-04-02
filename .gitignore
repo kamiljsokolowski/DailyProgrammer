@@ -1,2 +1,5 @@
 *.swp
 .vagrant
+env
+pyc
+__pycache__
